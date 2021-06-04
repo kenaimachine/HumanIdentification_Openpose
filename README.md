@@ -1,3 +1,4 @@
+
 # Human Identification Using Openpose
 
 ## Project Title: 
@@ -39,12 +40,9 @@ Pose estimation is used to generate keypoint data from video frames. The keypoin
 
 
 ### Video Of Keypoint Extraction Using Openpose :
-[![Watch the video](https://github.com/kenaimachine/HumanIdentification_Openpose/blob/f4219e5de2572359a6408186e83bca5f91a272ff/videos/KeypointExtraction.png)](https://github.com/kenaimachine/HumanIdentification_Openpose/blob/1fdf43519c84521c87a7868fe91abb40c0334ba0/videos/KeypointExtraction.mov)
+[![Watch the video](https://github.com/kenaimachine/HumanIdentification_Openpose/blob/f4219e5de2572359a6408186e83bca5f91a272ff/videos/KeypointExtraction.png)](https://user-images.githubusercontent.com/61535921/120785073-5abf8d00-c55f-11eb-940f-8e9ca47faf3f.mov)
 
 ### Video Of Onboarding New Personnel And Model Inference :
-[![Watch the video](https://github.com/kenaimachine/HumanIdentification_Openpose/blob/f4219e5de2572359a6408186e83bca5f91a272ff/videos/OnboardingAndInference.png)](https://github.com/kenaimachine/HumanIdentification_Openpose/blob/f4219e5de2572359a6408186e83bca5f91a272ff/videos/OnboardingAndInference.mov)
+[![Watch the video](https://github.com/kenaimachine/HumanIdentification_Openpose/blob/f4219e5de2572359a6408186e83bca5f91a272ff/videos/OnboardingAndInference.png)](https://user-images.githubusercontent.com/61535921/120785385-a96d2700-c55f-11eb-9496-d46709190f6c.mov)
 
 
-
-
-https://github.com/kenaimachine/HumanIdentification_Openpose/blob/main/videos/OnboardingAndInference.mov
