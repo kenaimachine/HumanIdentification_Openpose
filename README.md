@@ -38,7 +38,13 @@ Pose estimation is used to generate keypoint data from video frames. The keypoin
 ![FramesInSequentialOrder](https://user-images.githubusercontent.com/61535921/120776100-6f4b5780-c556-11eb-85bd-62c92cd8a505.png)
 
 
+### Video Of Keypoint Extraction Using Openpose :
+[![Watch the video](https://github.com/kenaimachine/HumanIdentification_Openpose/blob/f4219e5de2572359a6408186e83bca5f91a272ff/videos/KeypointExtraction.png)](https://github.com/kenaimachine/HumanIdentification_Openpose/blob/1fdf43519c84521c87a7868fe91abb40c0334ba0/videos/KeypointExtraction.mov)
+
+### Video Of Onboarding New Personnel And Model Inference :
+[![Watch the video](https://github.com/kenaimachine/HumanIdentification_Openpose/blob/f4219e5de2572359a6408186e83bca5f91a272ff/videos/OnboardingAndInference.png)](https://github.com/kenaimachine/HumanIdentification_Openpose/blob/f4219e5de2572359a6408186e83bca5f91a272ff/videos/OnboardingAndInference.mov)
 
 
 
 
+https://github.com/kenaimachine/HumanIdentification_Openpose/blob/main/videos/OnboardingAndInference.mov
