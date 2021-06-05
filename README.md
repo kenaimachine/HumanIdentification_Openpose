@@ -54,6 +54,28 @@ The output of the JSON files consist of a set of keypoints, whose ordering is re
 
 ![FramesInSequentialOrder](https://user-images.githubusercontent.com/61535921/120776100-6f4b5780-c556-11eb-85bd-62c92cd8a505.png)
 
+### Gait Recognition Model And Results
+
+#### Gait Recognition Model
+![GaitRecognitionModel](https://user-images.githubusercontent.com/61535921/120878533-b6d1f200-c5ef-11eb-9ab8-4bc91da6497f.png)
+
+#### Gait Recognition Accuracy, Loss Curve
+![GaitRecognitionAccuracyLossCurve](https://user-images.githubusercontent.com/61535921/120878539-c3564a80-c5ef-11eb-87e5-0226176333ce.png)
+
+#### Gait Recognition Confusion Matrix
+![GaitRecognitionConfusionMatrix](https://user-images.githubusercontent.com/61535921/120878541-c7826800-c5ef-11eb-857d-66ad7b9ebf37.png)
+
+
+
+### Gait Verification Model And Results
+
+![DataAugmentation](https://user-images.githubusercontent.com/61535921/120878633-5d1df780-c5f0-11eb-93a6-d9ec38e904b3.png)
+![SiameseModel](https://user-images.githubusercontent.com/61535921/120878639-6313d880-c5f0-11eb-95e5-549d165eb140.png)
+![SiameseModelDiagram](https://user-images.githubusercontent.com/61535921/120878641-66a75f80-c5f0-11eb-86c8-888e368b9a6d.png)
+![SiameseModelResult](https://user-images.githubusercontent.com/61535921/120878643-69a25000-c5f0-11eb-9999-876ef2608324.png)
+![NumberOfFramesAndResults](https://user-images.githubusercontent.com/61535921/120878645-6c04aa00-c5f0-11eb-8911-3f347895ba4c.png)
+
+
 
 ### Video Of Keypoint Extraction Using Openpose :
 
