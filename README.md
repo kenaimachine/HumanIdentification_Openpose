@@ -29,16 +29,29 @@ This video dataset comprises (44) recordings of the human gait with (396) edited
 
 Pose estimation is used to generate keypoint data from video frames. The keypoint data will then be input to a neural network as training data. Below are screenshots of a video of a subject walking and the keypoints are identified using pose estimation.
 
+**This Project Uses OPENPOSE as a real time multi-person system to detect human body keypoints on single images**
+
+https://github.com/CMU-Perceptual-Computing-Lab/openpose
+
 ![SubjectWalkingWithkeypoints](https://user-images.githubusercontent.com/61535921/120775133-8178c600-c555-11eb-84be-7bf6b2a63727.png)
 
 
 The output of the JSON files consist of a set of keypoints, whose ordering is realted with the outputformat shown:
+
 **Pose Output Format (COCO) - total of 18 keypoints**
+
 ![OpenPose_keypoints](https://user-images.githubusercontent.com/61535921/120775746-18458280-c556-11eb-9e94-be72ee757ab0.png)
+
+
+**Running OPENPOSE throught our training dataset, the number of video frames with keypoints detected are:**
 
 ![NumberOfFramesWithKeypointsDetcted](https://user-images.githubusercontent.com/61535921/120775752-1976af80-c556-11eb-861f-1f34b5d91bc3.png)
 
+**Using a sample training data, I illustrate how the keypoints coordinates changes over time across the image frame:** 
+
 ![KeypointsMovementOverFrame](https://user-images.githubusercontent.com/61535921/120776096-6e1a2a80-c556-11eb-9308-29696f0ca6a5.png)
+
+
 ![FramesInSequentialOrder](https://user-images.githubusercontent.com/61535921/120776100-6f4b5780-c556-11eb-85bd-62c92cd8a505.png)
 
 
