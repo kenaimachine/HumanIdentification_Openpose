@@ -41,7 +41,7 @@ Pose estimation is used to generate keypoint data from video frames. The keypoin
 
 ### Video Of Keypoint Extraction Using Openpose :
 
-[![Watch the video](https://user-images.githubusercontent.com/61535921/120838500-74ca9100-c59a-11eb-9891-b6683f98a94b.png)](https://user-images.githubusercontent.com/61535921/120785073-5abf8d00-c55f-11eb-940f-8e9ca47faf3f.mov)
+[![Watch the video](https://user-images.githubusercontent.com/61535921/120838500-74ca9100-c59a-11eb-9891-b6683f98a94b.png)](https://drive.google.com/file/d/1TGUPnTu4VeK-PUUsh7wZn62VIQfJMnoR/view?usp=sharing)
 
 ### Video Of Onboarding New Personnel:
 
