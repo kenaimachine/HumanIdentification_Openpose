@@ -44,6 +44,12 @@ Pose estimation is used to generate keypoint data from video frames. The keypoin
 [![Watch the video](https://user-images.githubusercontent.com/61535921/120838500-74ca9100-c59a-11eb-9891-b6683f98a94b.png)](https://user-images.githubusercontent.com/61535921/120785073-5abf8d00-c55f-11eb-940f-8e9ca47faf3f.mov)
 
 ### Video Of Onboarding New Personnel And Model Inference :
+
+[![Watch the video](https://user-images.githubusercontent.com/61535921/120838512-785e1800-c59a-11eb-9adb-5ce94af596c6.png)](https://drive.google.com/file/d/1FOGhffbtyeaY5Dpzb8qx7bUl-oeTIM4A/view?usp=sharing)
+
+
 [![Watch the video](https://user-images.githubusercontent.com/61535921/120838512-785e1800-c59a-11eb-9adb-5ce94af596c6.png)](https://user-images.githubusercontent.com/61535921/120785385-a96d2700-c55f-11eb-9496-d46709190f6c.mov)
+
+
 
 
