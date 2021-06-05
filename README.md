@@ -31,6 +31,9 @@ Pose estimation is used to generate keypoint data from video frames. The keypoin
 
 ![SubjectWalkingWithkeypoints](https://user-images.githubusercontent.com/61535921/120775133-8178c600-c555-11eb-84be-7bf6b2a63727.png)
 
+
+The output of the JSON files consist of a set of keypoints, whose ordering is realted with the outputformat shown:
+**Pose Output Format (COCO) - total of 18 keypoints**
 ![OpenPose_keypoints](https://user-images.githubusercontent.com/61535921/120775746-18458280-c556-11eb-9e94-be72ee757ab0.png)
 
 ![NumberOfFramesWithKeypointsDetcted](https://user-images.githubusercontent.com/61535921/120775752-1976af80-c556-11eb-861f-1f34b5d91bc3.png)
